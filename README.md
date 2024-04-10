@@ -1,8 +1,8 @@
 Pasos previos:
 
+visitar: https://pub.dev/packages/geolocator
+
 Agrega las dependencias en tu archivo pubspec.yaml:
-yaml
-Copy code
 dependencies:
   flutter:
     sdk: flutter
